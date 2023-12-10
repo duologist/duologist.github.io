@@ -13,6 +13,6 @@ My research interests are macroeconomics, fiscal and monetary policy in developi
 
 I received my Bachelor's degree from [Business School（商学院）](https://nubs.nju.edu.cn/), Nanjing University（南京大学）,in 2021.
 
-You can find my CV here: [杜浩锋中文简历](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [杜浩锋中文简历](../assets/杜浩锋中文简历.pdf).
 
 [Email](mailto:hfdu@nsd.pku.edu.cn)
