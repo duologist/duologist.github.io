@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "杜浩锋"
+  name             : #"杜浩锋"
   avatar           : "杜浩锋.png"
   bio              : "2021年于武汉江滩"
   location         : "北京"
