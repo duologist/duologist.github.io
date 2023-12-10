@@ -14,14 +14,14 @@ redirect_from:
 我的中文简历：[杜浩锋中文简历](../assets/杜浩锋中文简历.pdf).
 
 发表论文
-1. 江深哲,**杜浩锋（通讯作者）**,徐铭梽.双碳目标下能源与产业双重结构转型.《数量经济技术经济研究》,待刊.\
-&emsp;<small>新结构经济学研究院工作论文，第1届中国宏观经济学论坛优秀论文</small>
-2. **杜浩锋（通讯作者）**,乔子荑,韩剑.国有控制权带来的企业生产效率红利.《产业经济研究》2022年第1期.\
+1. 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[双碳目标下能源与产业双重结构转型](../assets/双碳目标下能源与产业双重结构转型.pdf).《数量经济技术经济研究》,待刊.[附录](../assets/双碳目标下能源与产业双重结构转型附录.pdf)\
+&emsp;<small>第1届中国宏观经济学论坛优秀论文</small>
+2. **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利]([https://www.nse.pku.edu.cn/](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS)).《产业经济研究》2022年第1期.\
 &emsp;<small>2021届南京大学优秀本科毕业论文</small>
-3. **杜浩锋（通讯作者）**,刘洋,冯帆.“一带一路”倡议与人类发展水平.《中共南京市委党校学报》2021年第5期.
-4. 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.房地产价格、金融发展与区域创新.《南大商学评论》2020年第2期\
-&emsp;<small>人大复印报刊资料转载（复印期刊：《创新政策与管理》2021年第1期），2020年《南大商学评论》优秀论文</small>
-
+3. **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《中共南京市委党校学报》2021年第5期.
+4. 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《南大商学评论》2020年第2期\
+&emsp;<small>人大复印报刊资料转载（复印期刊：《创新政策与管理》2021年第1期）</small>
+&emsp;<small>2020年《南大商学评论》优秀论文</small>
 
 工作论文
 1. 房地产税如何影响经济发展？与夏俊杰,江深哲,陈斌开合作.
