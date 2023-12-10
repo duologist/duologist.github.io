@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Haofeng Du（杜浩锋）"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "杜浩锋"
 description              : &description "personal description"
 url                      : https://duologist.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
