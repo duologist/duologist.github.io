@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "关于杜浩锋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
