@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我目前是北京大学[ Institute of New Structural Economics（新结构经济学研究院）](https://www.nse.pku.edu.cn/), [ National School of Development（国家发展研究院）](https://nsd.pku.edu.cn/)的一名三年级博士生。我于2021年在南京大学[Business School（商学院）](https://nubs.nju.edu.cn/)获得经济学学士学位。
+我目前是北京大学[ 新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/), [ 国家发展研究院（NSD）](https://nsd.pku.edu.cn/)的一名三年级博士生。我于2021年在南京大学[Business School（商学院）](https://nubs.nju.edu.cn/)获得经济学学士学位。
 
 我的研究方向为宏观经济学，包括发展中国家的财政和货币政策，中国宏观经济。
 
