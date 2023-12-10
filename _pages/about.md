@@ -20,7 +20,7 @@ redirect_from:
 &emsp;<small>2021届南京大学优秀本科毕业论文</small>
 3. **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《中共南京市委党校学报》2021年第5期.
 4. 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《南大商学评论》2020年第2期\
-&emsp;<small>人大复印报刊资料转载（复印期刊：《创新政策与管理》2021年第1期）</small>
+&emsp;<small>人大复印报刊资料转载（复印期刊：《创新政策与管理》2021年第1期）</small>\
 &emsp;<small>2020年《南大商学评论》优秀论文</small>
 
 工作论文
