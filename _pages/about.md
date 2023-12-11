@@ -24,7 +24,7 @@ redirect_from:
 2. **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《产业经济研究》2022年第1期.\
 &emsp;<small>2021届南京大学优秀本科毕业论文</small>
 3. **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《中共南京市委党校学报》2021年第5期.\
-&emsp;<small>2020年南京大学本科生银星杯一等奖代表论文推介至期刊</small>
+&emsp;<small>2020年南京大学银星杯论文竞赛一等奖，并被推荐给期刊</small>
 4. 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《南大商学评论》2020年第2期\
 &emsp;<small>人大复印报刊资料转载</small>\
 &emsp;<small>2020年《南大商学评论》优秀论文</small>
