@@ -22,7 +22,7 @@ redirect_from:
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[双碳目标下能源与产业双重结构转型](../assets/双碳目标下能源与产业双重结构转型.pdf).《数量经济技术经济研究》,待刊.[附录](../assets/双碳目标下能源与产业双重结构转型附录.pdf)
   - <small>第1届中国宏观经济学论坛优秀论文</small>
 
-以下为本科期间的研究
+&emsp;（以下为本科期间的研究）
 
 + **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《产业经济研究》2022年第1期.
   - <small>2021届南京大学优秀本科毕业论文</small>
