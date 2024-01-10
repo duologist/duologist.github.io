@@ -16,11 +16,12 @@ redirect_from:
 
 **工作论文**
 + 房地产税如何影响经济发展？与夏俊杰,江深哲,陈斌开合作.
-+ 消费、企业进入与长期经济增长.与江深哲,陈斌开,夏俊杰合作.
++ 扩大消费能否促进长期增长？.与江深哲,陈斌开,夏俊杰合作.
 
 **发表论文**
-+ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[双碳目标下能源与产业双重结构转型](../assets/双碳目标下能源与产业双重结构转型.pdf).《数量经济技术经济研究》,待刊.[附录](../assets/双碳目标下能源与产业双重结构转型附录.pdf)
++ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[双碳目标下能源与产业双重结构转型]([../assets/双碳目标下能源与产业双重结构转型.pdf](https://kns.cnki.net/kcms2/article/abstract?v=jd-zW4OcutxfuNV8Fudm3mlr5lFlSfLfGEmymn9ynZQOmoNtR97ByN1JXzg5MgZglAvn7nASmhdApDwEvzzDe8Qnz0vrCFlT11teploKqTVSBgv3kpIFHNSJd_eteDng24vAH9TuY70=&uniplatform=NZKPT&language=CHS)).《数量经济技术经济研究》2024年第2期.[附录](../assets/双碳目标下能源与产业双重结构转型附录.pdf)
   - <small>第1届中国宏观经济学论坛优秀论文</small>
+  - <small>[新结构经济学研究院工作论文](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
 &emsp;（以下为本科期间的研究）
 
