@@ -21,7 +21,7 @@ redirect_from:
 + **杜浩锋（独立作者）**.转型期新兴产业的动态潮涌与政策应对.
 
 **发表论文**
-+ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](../assets/双碳目标下能源与产业双重结构转型.pdf).《数量经济技术经济研究》2024年第2期.[附录](../assets/双碳目标下能源与产业双重结构转型附录.pdf)
++ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《数量经济技术经济研究》2024年第2期.
   - <small>第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
