@@ -16,9 +16,10 @@ redirect_from:
 
 **工作论文**
 + 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？《经济研究》外审
-+ 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
++ 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？《数量经济技术经济研究》外审
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**,伍晓鹰.中国经济波动的行业来源.《经济研究》外审
 + **杜浩锋（独立作者）**.转型期新兴产业的动态潮涌与政策应对.《数量经济技术经济研究》外审
++ **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Bussiness Cycle in China.
 
 **发表论文**
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《数量经济技术经济研究》2024年第2期.
