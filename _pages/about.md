@@ -27,6 +27,7 @@ redirect_from:
 + 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？《数量经济技术经济研究》二审
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**,伍晓鹰.中国经济波动的行业来源.《经济研究》二审
   - <small>第5届宏观经济学者论坛优秀论文</small>
++ 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字金融、企业动态与实体经济发展——基于异质性企业家模型的研究.
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
