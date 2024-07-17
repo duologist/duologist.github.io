@@ -28,6 +28,7 @@ redirect_from:
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**,伍晓鹰.中国经济波动的行业来源.《经济研究》二审
   - <small>第5届宏观经济学者论坛优秀论文</small>
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字金融、企业动态与实体经济发展——基于异质性企业家模型的研究.
++ **杜浩锋**,黄益平,徐诗语.产业升级、产能过剩风险与政策治理——基于动态预期视角的理论分析.
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
