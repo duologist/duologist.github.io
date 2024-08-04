@@ -23,26 +23,26 @@ redirect_from:
 + 2024年5月25日：我在北京师范大学与《经济研究》编辑部举办的**第5届宏观经济学者论坛**上，汇报合作论文《中国经济波动的行业来源》
 
 **工作论文**
-+ 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？《经济研究》外审
-+ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.《经济研究》二轮返修
++ 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》外审**
++ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》二轮返修**
   - <small>第5届宏观经济学者论坛优秀论文</small>
-  - 原标题《中国经济波动的行业来源》
+  - <small>原标题《中国经济波动的行业来源》</small>
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字金融、企业动态与实体经济发展——基于异质性企业家模型的研究.
 + **杜浩锋**,黄益平,徐诗语.产业升级时期的产能过剩风险：机制、根源和政策应对.
 + 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
-+ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《数量经济技术经济研究》2024年第2期.
++ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
   - <small>第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
 &emsp;（以下为本科期间的研究）
 
-+ **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《产业经济研究》2022年第1期.
++ **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
   - <small>2021届南京大学优秀本科毕业论文</small>
-+ **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《中共南京市委党校学报》2021年第5期.
++ **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《**中共南京市委党校学报**》2021年第5期.
   - <small>2020年南京大学银星杯论文竞赛一等奖，并被推荐给期刊</small>
-+ 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《南大商学评论》2020年第2期
++ 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《**南大商学评论**》2020年第2期
   - <small>人大复印报刊资料转载</small>
   - <small>2020年《南大商学评论》优秀论文</small>
