@@ -24,9 +24,6 @@ redirect_from:
 
 **工作论文**
 + 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》外审**
-+ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》三审**
-  - <small>第5届宏观经济学者论坛优秀论文</small>
-  - <small>原标题《中国经济波动的行业来源》</small>
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.如何提升金融服务实体经济质效？——基于中国数字金融实践的分析.
 + 陈斌开,**杜浩锋**,夏俊杰,江深哲.经济增速放缓与生育率下降：基于育龄居民消费行为的新解释.
 + 林婕彤,**杜浩锋（通讯作者）**,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.
@@ -35,6 +32,9 @@ redirect_from:
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
++ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》** 拟录用.
+  - <small>第5届宏观经济学者论坛优秀论文</small>
+  - <small>原标题《中国经济波动的行业来源》</small>
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
   - <small>第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
