@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/), [国家发展研究院（NSD）](https://nsd.pku.edu.cn/)的一名四年级博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm/)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm/)。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位，导师是[韩剑教授](https://nubs.nju.edu.cn/hj/list.htm/)。我是湖北武汉人，小学、初中和高中分别就读于武汉小学、武珞路初级中学和华中师范大学第一附属中学。
+我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/), [国家发展研究院（NSD）](https://nsd.pku.edu.cn/)的一名四年级博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位，导师是[韩剑教授](https://nubs.nju.edu.cn/hj/list.htm)。我是湖北武汉人，小学、初中和高中分别就读于武汉小学、武珞路初级中学和华中师范大学第一附属中学。
 
 我的研究方向为宏观经济学和新结构经济学。我的研究话题主要包括：
 + 产业结构与宏观经济
