@@ -37,7 +37,7 @@ redirect_from:
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
-+ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》** 拟录用.
++ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》** 2024年第9期（待刊）.
   - <small>第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
