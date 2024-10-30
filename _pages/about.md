@@ -23,7 +23,7 @@ redirect_from:
 + 2024年10月19日：合作者将在《经济研究》编辑部和中央财经大学举办的第5届发展经济学者论坛汇报文章《数字金融支持实体经济高质量发展：理论模型和定量分析》、《政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究》。
 
 **工作论文**
-+ 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》返修**
++ 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》二审**
   - <small>主旨演讲（陈斌开）：第18届经济增长与周期论坛、第4届产业经济学者论坛、中国社会科学院大学卓越讲堂</small>
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字金融支持实体经济高质量发展：理论模型和定量分析.**《经济研究》外审**
   - <small>主旨演讲（黄益平）：第7届金融学者论坛</small>
@@ -46,7 +46,7 @@ redirect_from:
 
 &emsp;（以下为本科期间的研究）
 
-+ **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
++ **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利——来自局部准随机实验的证据](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
   - <small>2021届南京大学优秀本科毕业论文</small>
 + **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《**中共南京市委党校学报**》2021年第5期.
   - <small>2020年南京大学银星杯论文竞赛一等奖，并被推荐给期刊</small>
