@@ -19,7 +19,7 @@ redirect_from:
 **简历**：[中文简历](../assets/杜浩锋中文简历.pdf).
 
 **近期学术汇报**
-+ 2024年12月18日：黄益平老师将做客中国社会科学院经济研究所“**经济高质量发展大讲堂**”，介绍合作文章《生产网络视角下的中国经济周期》。
++ 2024年12月18日：黄益平老师将做客中国社会科学院**经济高质量发展大讲堂**，介绍合作文章《生产网络视角下的中国经济周期》。
 + 2024年11月22日：我将在厦门大学举办的第4届全国宏观经济学博士生学术论坛汇报文章《数字金融支持实体经济高质量发展：理论模型和定量分析》。
 + 2024年11月16日：合作者在《经济研究》编辑部和南京大学举办的第13届宏观经济政策与微观企业行为学术研讨会汇报文章《政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究》。
 + 2024年11月10日：陈斌开老师在《中国工业经济》编辑部和中央财经大学举办的第7届应用经济学前沿论坛进行**主旨演讲**，介绍合作文章《消费习惯、生育选择与中国经济增长》。
@@ -40,8 +40,8 @@ redirect_from:
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **发表论文**
-+ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.生产网络视角下的中国经济周期.**《经济研究》** 2024年第9期.**封面文章**.
-  - <small>受邀演讲（黄益平）：中国社会科学院经济研究所“经济高质量发展大讲堂”</small>
++ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.[生产网络视角下的中国经济周期](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS).**《经济研究》** 2024年第9期.**封面文章**.
+  - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
   - <small>第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
