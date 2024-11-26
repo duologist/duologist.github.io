@@ -30,10 +30,10 @@ redirect_from:
 + 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》二审**
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字金融支持实体经济高质量发展：理论模型和定量分析.**《经济研究》外审**
-  - <small>第5届发展经济学者论坛优秀论文</small>
+  - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
 + **杜浩锋**,缪延亮,林婕彤,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.**《经济研究》外审**
 + **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.
-  - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛</small>
+  - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛</small>
 + 黄益平,徐诗语,**杜浩锋**.中国宏观政策框架的结构性分析.
   - <small>《生产网络视角下的中国经济周期》一文的政策启示</small>
 + 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？**《财贸经济》外审**
@@ -43,10 +43,10 @@ redirect_from:
 **发表论文**
 + 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.[生产网络视角下的中国经济周期](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS).**《经济研究》** 2024年第9期.**封面文章**.
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
-  - <small>第5届宏观经济学者论坛优秀论文</small>
+  - <small>《经济研究》第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
 + 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
-  - <small>第1届中国宏观经济学论坛优秀论文</small>
+  - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
 &emsp;（以下为本科期间的研究）
