@@ -16,8 +16,9 @@ redirect_from:
 **简历**：[中文简历](../assets/杜浩锋中文简历.pdf).
 
 **近期主要进行中工作**
-+ Middle-class Innovation Cascade. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
-+ 人口老龄化、创新与经济增长.与陈斌开,江深哲,夏俊杰合作.
++ Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
++ 人口老龄化如何影响创新驱动型增长？.与陈斌开,江深哲,夏俊杰合作.
++ 从行业视角理解当前经济下行的原因与政策应对.与黄益平,徐诗语合作.
 
 **工作论文**
 + **杜浩锋**,缪延亮,林婕彤,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.**《经济研究》返修**
