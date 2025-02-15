@@ -17,7 +17,6 @@ redirect_from:
 
 **近期主要进行中工作**
 + Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
-+ 重视经济周期中的行业因素：当前经济下行的原因分析与政策应对.与黄益平,徐诗语合作.
 + 人口老龄化如何影响创新驱动型增长？.与陈斌开,江深哲,夏俊杰合作.
 + 人口老龄化与中国供需结构转型.与汪玲合作
 
@@ -28,6 +27,7 @@ redirect_from:
   - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
 + **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.**《世界经济》外审**
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
++ 黄益平,**杜浩锋**,徐诗语.经济周期管理的行业视角：当前政策选择与一般政策框架.
 + 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
