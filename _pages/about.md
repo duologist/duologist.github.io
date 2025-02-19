@@ -15,22 +15,6 @@ redirect_from:
 
 **简历**：[中文简历](../assets/杜浩锋中文简历.pdf).
 
-**近期主要进行中工作**
-+ Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
-+ 人口老龄化如何影响创新驱动型增长？.与陈斌开,江深哲,夏俊杰合作.
-+ 人口老龄化与中国供需结构转型.与汪玲合作
-
-**工作论文**
-+ **杜浩锋**,缪延亮,林婕彤,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.**《经济研究》返修**
-+ 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字普惠金融、中小企业动态与中国经济发展.**《经济研究》返修**
-  - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
-  - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
-+ **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.**《世界经济》外审**
-  - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
-+ 黄益平,**杜浩锋**,徐诗语.经济下行的产业导因与“稳增长”政策的结构视角.**《国际经济评论》外审**
-+ 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
-+ **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
-
 **发表论文**
 + 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》待刊**
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
@@ -43,8 +27,23 @@ redirect_from:
   - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
-&emsp;（以下为本科期间的研究）
+**工作论文**
++ **杜浩锋**,缪延亮,林婕彤,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.**《经济研究》返修**
++ 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字普惠金融、中小企业动态与中国经济发展.**《经济研究》返修**
+  - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
+  - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
++ **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.**《世界经济》外审**
+  - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
++ 黄益平,**杜浩锋**,徐诗语.经济下行的产业导因与“稳增长”政策的结构视角.**《国际经济评论》外审**
++ 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
++ **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
+**近期主要进行中工作**
++ Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
++ 人口老龄化如何影响创新驱动型增长？.与陈斌开,江深哲,夏俊杰合作.
++ 人口老龄化与中国供需结构转型.与汪玲合作
+
+**本科期间的研究**
 + **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利——来自局部准随机实验的证据](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
   - <small>2021届南京大学优秀本科毕业论文</small>
 + **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《**中共南京市委党校学报**》2021年第5期.
