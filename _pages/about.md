@@ -41,7 +41,7 @@ redirect_from:
 
 **近期主要进行中工作**
 + Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
-+ 人口老龄化与中国供需结构转型.与汪玲合作
++ 人口转变背景下的中国供需结构转型.与汪玲合作
 
 **本科期间的研究**
 + **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利——来自局部准随机实验的证据](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
