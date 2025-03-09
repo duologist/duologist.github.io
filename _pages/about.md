@@ -32,7 +32,7 @@ redirect_from:
 + 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字普惠金融、中小企业动态与中国经济发展.**《经济研究》返修**
   - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
   - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
-+ **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.**《世界经济》外审**
++ **杜浩锋**,陈斌开,江深哲,夏俊杰.消费习惯、生育选择与中国经济增长.**《世界经济》返修**
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
 + 黄益平,**杜浩锋**,徐诗语,伍晓鹰,余昌华.经济下行的产业导因与“稳增长”政策的结构视角.**《国际经济评论》外审**
 + 江深哲,陈斌开,**杜浩锋（通讯作者）**,夏俊杰.人口老龄化如何影响创新驱动型增长？
@@ -40,8 +40,8 @@ redirect_from:
 + **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
 
 **近期主要进行中工作**
-+ Trickle-down Innovation. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
-+ 人口转变背景下的中国供需结构转型.与汪玲合作
++ Trickle-down Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
++ 中国产业结构的适老化转型：趋势与机制.与汪玲合作
 
 **本科期间的研究**
 + **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利——来自局部准随机实验的证据](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
