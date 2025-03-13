@@ -20,7 +20,7 @@ redirect_from:
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
   - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar</small>
 + 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.[生产网络视角下的中国经济周期](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS).**《经济研究》** 2024年第9期.**封面文章**.
-  - 英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
+  - <small>英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
   - <small>《经济研究》第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
