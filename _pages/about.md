@@ -16,40 +16,41 @@ redirect_from:
 **简历**：[中文简历](../assets/中文简历.pdf).
 
 **发表论文**
-+ 陈斌开,**杜浩锋**,江深哲,夏俊杰.扩大消费能否促进长期增长？**《经济研究》待刊**
++ 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》** 待刊
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
   - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar</small>
   - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会</small>
-+ 黄益平,徐诗语,余昌华,**杜浩锋（通讯作者）**,伍晓鹰.[生产网络视角下的中国经济周期](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS).**《经济研究》** 2024年第9期.**封面文章**.
++ 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期.**封面文章**.
   - <small>英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
   - <small>《经济研究》第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
-+ 江深哲,**杜浩锋（通讯作者）**,徐铭梽.[“双碳”目标下能源与产业双重结构转型](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS).《**数量经济技术经济研究**》2024年第2期.
++ 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期.
   - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
 **工作论文**
-+ **杜浩锋**,缪延亮,林婕彤,徐铭梽.政府投资的预期引导效应——基于中国政府引导基金的实证与理论研究.**《经济研究》返修**
-+ 黄益平,徐诗语,**杜浩锋（通讯作者）**.数字普惠金融、小微企业动态与中国经济发展.**《经济研究》返修**
++ **杜浩锋**、缪延亮、林婕彤、徐铭梽，2025：《政府投资的预期引导效应——基于中国政府引导基金的研究》，**《经济研究》返修**
++ 黄益平、徐诗语、**杜浩锋（通讯作者）**，2025：《数字普惠金融、小微企业动态与中国经济发展》，**《经济研究》返修**
   - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
   - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
-+ **杜浩锋**,陈斌开,江深哲,夏俊杰.经济增速换挡与代际生育选择：基于消费习惯的视角.**《世界经济》返修**
++ 夏俊杰、江深哲、陈斌开、**杜浩锋**，2023：《房地产税如何影响经济发展？》，**《经济研究》返修**
++ 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》，**投稿至《管理世界》**
++ **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡与代际生育选择：基于消费习惯的视角》，**《世界经济》二审**
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
   - <small>原标题《消费习惯、生育选择与中国经济增长》</small>
-+ 黄益平,**杜浩锋**,徐诗语,伍晓鹰,余昌华.经济下行的产业导因与“稳增长”政策的结构视角.**《国际经济评论》外审**
-+ 江深哲,陈斌开,**杜浩锋（通讯作者）**,夏俊杰.人口老龄化如何影响创新驱动型增长？
-+ 夏俊杰,江深哲,陈斌开,**杜浩锋**.房地产税如何影响经济发展？
-+ **Haofeng Du**, Shenzhe Jiang, Justin Yifu Lin. Wave Phenomenon and Business Cycle in China.
-
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》外审**
++ **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cylces in China.
++ **Haofeng Du**, Yiping Huang, Xiaoying Wu, Shiyu Xu, Changhua Yu, 2025, Production Networks and Business Cycles in China——Observations from the CIP/China KLEMS Data.
+  
 **近期主要进行中工作**
 + Trickle-down Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
 + 中国产业结构的适老化转型：趋势与机制.与汪玲合作
 
 **本科期间的研究**
-+ **杜浩锋（通讯作者）**,乔子荑,韩剑.[国有控制权带来的企业生产效率红利——来自局部准随机实验的证据](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS).《**产业经济研究**》2022年第1期.
++ **杜浩锋（通讯作者）**、乔子荑、韩剑，2022：[《国有控制权带来的企业生产效率红利——来自局部准随机实验的证据》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS)，**《产业经济研究》** 第1期.
   - <small>2021届南京大学优秀本科毕业论文</small>
-+ **杜浩锋（通讯作者）**,刘洋,冯帆.[“一带一路”倡议与人类发展水平](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS).《**中共南京市委党校学报**》2021年第5期.
++ **杜浩锋（通讯作者）**、刘洋、冯帆，2021：[《“一带一路”倡议与人类发展水平》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS)，**《中共南京市委党校学报》** 第5期.
   - <small>2020年南京大学银星杯论文竞赛一等奖，并被推荐给期刊</small>
-+ 蒋彧,**杜浩锋（通讯作者）**,王一鸣,袁冬.[房地产价格、金融发展与区域创新](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS).《**南大商学评论**》2020年第2期.**人大复印报刊资料全文转载**.
++ 蒋彧、**杜浩锋（通讯作者）**、王一鸣、袁冬，2020：[《房地产价格、金融发展与区域创新》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS)，**《南大商学评论》** 第2期.**人大复印报刊资料全文转载**.
   - <small>2020年《南大商学评论》优秀论文</small>
