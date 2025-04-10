@@ -11,7 +11,7 @@ redirect_from:
 
 我的研究方向为宏观经济学和新结构经济学。我的研究话题主要包括经济增长、结构转型、中国宏观经济。
 
-我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，并担任《经济研究》匿名审稿人。
+我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，并担任《经济研究》（×3）、《世界经济》（×1）、数量经济技术经济研究（×2）匿名审稿人。
 
 **简历**：[中文简历](../assets/中文简历.pdf).
 
@@ -23,7 +23,7 @@ redirect_from:
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期.**封面文章**.
   - <small>英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
-  - <small>《经济研究》第5届宏观经济学者论坛优秀论文</small>
+  - <small>第十届香樟经济学优秀论文奖、《经济研究》第5届宏观经济学者论坛优秀论文</small>
   - <small>原标题《中国经济波动的行业来源》</small>
 + 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期.
   - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
@@ -35,7 +35,7 @@ redirect_from:
   - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
   - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2023：《房地产税如何影响经济发展？》，**《经济研究》返修**
-+ 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》，**投稿至《管理世界》**
++ 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》，**《管理世界》审稿中**
 + **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡与代际生育选择：基于消费习惯的视角》，**《世界经济》二审**
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
   - <small>原标题《消费习惯、生育选择与中国经济增长》</small>
