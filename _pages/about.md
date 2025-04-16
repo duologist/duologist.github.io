@@ -36,10 +36,10 @@ redirect_from:
   - <small>原标题《数字金融支持实体经济高质量发展：理论模型和定量分析》</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2023：《房地产税如何影响经济发展？》，**《经济研究》返修**
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》，**《管理世界》审稿中**
-+ **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡与代际生育选择：基于消费习惯的视角》，**《世界经济》二审**
++ **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡与代际生育选择：基于消费习惯的视角》，**《世界经济》复审**
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
   - <small>原标题《消费习惯、生育选择与中国经济增长》</small>
-+ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》外审**
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》返修**
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cylces in China.
 + **Haofeng Du**, Yiping Huang, Xiaoying Wu, Shiyu Xu, Changhua Yu, 2025, Production Networks and Business Cycles in China——Observations from the CIP/China KLEMS Data.
   
