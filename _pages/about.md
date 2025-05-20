@@ -9,9 +9,9 @@ redirect_from:
 ---
 我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/), [国家发展研究院（NSD）](https://nsd.pku.edu.cn/)的一名四年级博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位，导师是[韩剑教授](https://nubs.nju.edu.cn/hj/list.htm)。我是湖北武汉人，小学、初中和高中分别就读于武汉小学、武珞路初级中学和华中师范大学第一附属中学。
 
-我的研究方向为宏观经济学和新结构经济学。我的研究话题主要包括经济增长、结构转型、中国宏观经济。
+我的研究方向为宏观经济学和新结构经济学，主要包括经济增长、结构转型、中国宏观经济。
 
-我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，并担任《经济研究》（×3）、《世界经济》（×1）、《数量经济技术经济研究》（×2）等期刊匿名审稿人。
+我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》（×3）等期刊匿名审稿人。
 
 **简历**：[中文简历](../assets/中文简历.pdf).
 
@@ -35,13 +35,14 @@ redirect_from:
 + **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡期的生育选择：基于消费习惯的解释》，**《世界经济》三审**。
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》返修**。
-+ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》二审**。
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审**。
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cylces in China.
 + **Haofeng Du**, Yiping Huang, Xiaoying Wu, Shiyu Xu, Changhua Yu, 2025, Production Networks and Business Cycles in China——Observations from the CIP/China KLEMS Data.
   
 **近期主要进行中工作**
-+ Trickle-down Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
++ Hierarchy Consumption, Income Distribution and Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
++ Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
 + 《中国产业结构的适老化转型：趋势与机制》，与汪玲合作。
 
 **本科期间的研究**
