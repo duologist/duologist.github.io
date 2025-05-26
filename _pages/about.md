@@ -19,7 +19,7 @@ redirect_from:
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》** 拟录用。
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
   - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar</small>
-  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会</small>
+  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。
   - <small>英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
@@ -44,6 +44,7 @@ redirect_from:
 + Hierarchy Consumption, Income Distribution and Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
 + Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
 + 《中国产业结构的适老化转型：趋势与机制》，与汪玲合作。
++ 《中国创新动能的结构转型》，与王彦哲合作。
 
 **本科期间的研究**
 + **杜浩锋（通讯作者）**、乔子荑、韩剑，2022：[《国有控制权带来的企业生产效率红利——来自局部准随机实验的证据》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS)，**《产业经济研究》** 第1期。
