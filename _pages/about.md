@@ -11,7 +11,7 @@ redirect_from:
 
 我的研究方向为宏观经济学和新结构经济学，主要包括经济增长、结构转型、中国宏观经济。
 
-我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》（×3）等期刊匿名审稿人。
+我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》等期刊匿名审稿人。
 
 **简历**：[中文简历](../assets/中文简历.pdf).
 
@@ -43,7 +43,7 @@ redirect_from:
 **近期主要进行中工作**
 + Hierarchy Consumption, Income Distribution and Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
 + Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
-+ 《中国产业结构的适老化转型：趋势与机制》，与汪玲合作。
++ 《中国产业结构的适老化转型：机制与趋势》，与汪玲合作。
 + 《中国创新动能的结构转型》，与王彦哲合作。
 
 **本科期间的研究**
@@ -54,3 +54,6 @@ redirect_from:
 + 蒋彧、**杜浩锋（通讯作者）**、王一鸣、袁冬，2020：[《房地产价格、金融发展与区域创新》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgv3Lr_QkgU5WdvetHNW4SqGSBoKtz4UfxGoczz5aIpDPnOEfokeWZifxQrAGU0YA_Toxq_5Yefe0wo9fS_0DSyvxyffI0UmCsJeZQ_ggL5GDqunAk7w8w4ExDgTHzLxjp8=&uniplatform=NZKPT&language=CHS)，**《南大商学评论》** 第2期。
    - <small>人大复印报刊资料全文转载</small>
    - <small>2020年《南大商学评论》优秀论文</small>
+
+**期刊评审**
++ 《经济研究》（×3）、《数量经济技术经济研究》（×1）、《财经论丛》
