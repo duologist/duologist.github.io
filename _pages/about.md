@@ -19,7 +19,7 @@ redirect_from:
   - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
   - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。
-  - <small>英文译文发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
+  - <small>英文译文《Production Networks and Business Cycles in China》发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
   - <small>第10届香樟经济学优秀论文奖、《经济研究》第5届宏观经济学者论坛优秀论文</small>
 + 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期。
@@ -36,7 +36,6 @@ redirect_from:
 + 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审**。
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
-+ **Haofeng Du**, Yiping Huang, Xiaoying Wu, Shiyu Xu, Changhua Yu, 2025, Production Networks and Business Cycles in China——Observations from the CIP/China KLEMS Data.
   
 **近期主要进行中工作**
 + Hierarchy Consumption, Income Distribution and Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
