@@ -13,6 +13,11 @@ redirect_from:
 
 **简历**：[中文简历](../assets/中文简历.pdf).
 
+**求职论文（Job Market Paper）**
++ From Luxury to Necessity: Hierarchical Consumption, Income Distribution, and Innovation
+  - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
+  - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually become necessities for the poor through innovation and diffusion. This paper is the first to document this process using comprehensive micro-level data, and to examine how income inequality shapes firm innovation. We find that (i) poor consumers’ expenditure share on products rises over time; (ii) firms serving richer consumers innovate more; (iii) rising inequality dampens innovation, especially for firms targeting the poor; and (iv) firm size evolves non-monotonically. To explain these patterns, we develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics, which replicates the empirical findings and reveals the aggregate consequences of inequality-driven innovation distortions.</small>
+  
 **发表论文**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》** 拟录用。
   - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
@@ -38,7 +43,6 @@ redirect_from:
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
   
 **近期主要进行中工作**
-+ Hierarchy Consumption, Income Distribution and Innovation. with Jianjun Miao, Shenzhe Jiang, Mingzhi Jimmy Xu, and Yanzhe Wang.
 + Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
 + 《中国产业结构的适老化转型：机制与趋势》，与汪玲合作。
 + 《中国创新动能结构转型：1985—2020》，与王彦哲合作。
