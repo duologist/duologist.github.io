@@ -44,8 +44,8 @@ redirect_from:
   
 **近期主要进行中工作**
 + Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
++ 《中国的创新结构转型：1985—2020》，与王彦哲合作。
 + 《中国产业结构的适老化转型：机制与趋势》，与汪玲合作。
-+ 《中国创新动能结构转型：1985—2020》，与王彦哲合作。
 
 **本科期间的研究**
 + **杜浩锋（通讯作者）**、乔子荑、韩剑，2022：[《国有控制权带来的企业生产效率红利——来自局部准随机实验的证据》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS)，**《产业经济研究》** 第1期。
