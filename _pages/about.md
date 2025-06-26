@@ -20,10 +20,6 @@ redirect_from:
    - <small>受邀演讲（江深哲）：西南财经大学宏观金融研讨会</small>
   
 **发表论文**
-+ 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》** 拟录用。
-  - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
-  - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
-  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。
   - <small>英文译文《Production Networks and Business Cycles in China》发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
@@ -33,6 +29,10 @@ redirect_from:
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
 **工作论文**
++ 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 拟录用**。
+  - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
+  - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
+  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + **杜浩锋**、缪延亮、林婕彤、徐铭梽，2025：《政府投资的预期引导效应——基于中国政府引导基金的研究》，**《经济研究》二轮返修**。
 + 黄益平、徐诗语、**杜浩锋（通讯作者）**，2025：《数字普惠金融、小微企业动态与中国经济发展》，**《经济研究》返修**。
   - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
