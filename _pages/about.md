@@ -40,15 +40,16 @@ redirect_from:
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》复审**。
 + 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审**。
++ **杜浩锋**、王彦哲，2025：《中国创新结构转型：1985—2020》。
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》。
++ 汪玲、**杜浩锋（通讯作者）**，2025：《中国产业结构适老化转型：机制与趋势》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
-  
-**近期主要进行中工作**
-+ Dimensions of Local Government Competition. with Shenzhe Jiang, Mingzhi Jimmy Xu, and Kai Yang.
-+ 《中国的创新结构转型：1985—2020》，与王彦哲合作。
-+ 《中国产业结构的适老化转型：机制与趋势》，与汪玲合作。
++ **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
-**本科期间的研究**
+**期刊评审**
++ 《经济研究》（×4）、《数量经济技术经济研究》（×1）、《财经论丛》
+
+**本科期间的发表论文**
 + **杜浩锋（通讯作者）**、乔子荑、韩剑，2022：[《国有控制权带来的企业生产效率红利——来自局部准随机实验的证据》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgvXI0Bo8uJl3ZtwSimsbymiMqItI5blDKIsl2dJ03VCX3KPJeV0COicUUpSVbYmE3jEPc-hn6hEslPKqemBLpzQ8fOk4fGvoiCo4_ENleVxAGMLmq7t-RefD9GSY2uM48Cr7Hv_3UbwrA==&uniplatform=NZKPT&language=CHS)，**《产业经济研究》** 第1期。
   - <small>2021届南京大学优秀本科毕业论文</small>
 + **杜浩锋（通讯作者）**、刘洋、冯帆，2021：[《“一带一路”倡议与人类发展水平》](https://kns.cnki.net/kcms2/article/abstract?v=SDjqx_HoHgsLRSLpiEuz5eHYFSVrCspl-7ripTV7lpJfb32zwP1T_Jar_MgbFJcrPffHW5tYwv3Xnk-YcJvuF1Wpv8Mder0ju3bGCkq884B7BA5_4_Qs7VRj9McixC63OSzNhnuWZu5FUCQxeMVRKg==&uniplatform=NZKPT&language=CHS)，**《中共南京市委党校学报》** 第5期。
@@ -57,5 +58,4 @@ redirect_from:
    - <small>人大复印报刊资料全文转载</small>
    - <small>2020年《南大商学评论》优秀论文</small>
 
-**期刊评审**
-+ 《经济研究》（×4）、《数量经济技术经济研究》（×1）、《财经论丛》
+
