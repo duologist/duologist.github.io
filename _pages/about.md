@@ -14,7 +14,7 @@ redirect_from:
 **简历**：[中文简历](../assets/中文简历.pdf).
 
 **求职论文（Job Market Paper）**
-+ From Luxury to Necessity: Hierarchical Consumption, Income Distribution, and Innovation
++ Transforming Luxury to Necessity
   - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
   - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually become necessities for the poor through innovation and diffusion. This paper is the first to document this process using comprehensive micro-level data, and to examine how income inequality shapes firm innovation. We find that (i) poor consumers’ expenditure share on products rises over time; (ii) firms serving richer consumers innovate more; (iii) rising inequality dampens innovation, especially for firms targeting the poor; and (iv) firm size evolves non-monotonically. To explain these patterns, we develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics, which replicates the empirical findings and reveals the aggregate consequences of inequality-driven innovation distortions.</small>
    - <small>受邀演讲（江深哲）：西南财经大学宏观金融研讨会</small>
