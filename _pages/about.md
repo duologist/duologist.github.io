@@ -19,7 +19,11 @@ redirect_from:
   - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually become necessities for the poor through innovation and diffusion. This paper is the first to document this process using comprehensive micro-level data, and to examine how income inequality shapes firm innovation. We find that (i) poor consumers’ expenditure share on products rises over time; (ii) firms serving richer consumers innovate more; (iii) rising inequality dampens innovation, especially for firms targeting the poor; and (iv) firm size evolves non-monotonically. To explain these patterns, we develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics, which replicates the empirical findings and reveals the aggregate consequences of inequality-driven innovation distortions.</small>
    - <small>受邀演讲（江深哲）：西南财经大学宏观金融研讨会</small>
   
-**发表论文**
+**发表论文（含待刊）**
++ 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 待刊**。
+  - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
+  - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
+  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。
   - <small>英文译文《Production Networks and Business Cycles in China》发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
   - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
@@ -28,18 +32,17 @@ redirect_from:
   - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 
+**政策报告**
++ 2025年5月《关于提高生育率的有关建议》，获得党和国家主要领导人的重要批示。 
+
 **工作论文**
-+ 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 拟录用**。
-  - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
-  - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
-  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + **杜浩锋**、缪延亮、林婕彤、徐铭梽，2025：《政府投资的预期引导效应——基于中国政府引导基金的研究》，**《经济研究》二轮返修**。
 + 黄益平、徐诗语、**杜浩锋（通讯作者）**，2025：《数字普惠金融、小微企业动态与中国经济发展》，**《经济研究》返修**。
   - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
 + **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《经济增速换挡期的生育选择：基于消费习惯的解释》，**《世界经济》三审**。
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》复审**。
-+ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审**。
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审修改**。
 + **杜浩锋**、王彦哲，2025：《中国创新结构转型：1985—2020》。
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《中国产业结构适老化转型：机制与趋势》。
