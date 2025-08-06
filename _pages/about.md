@@ -21,17 +21,11 @@ redirect_from:
   
 **发表论文（含待刊）**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 待刊**。
-  - <small>受邀演讲（陈斌开）：《经济研究》第18届经济增长与周期论坛、《经济研究》第4届产业经济学者论坛、中国社会科学院大学卓越讲堂、兰州财经大学财经大讲堂</small>
-  - <small>受邀演讲（杜浩锋）：北京师范大学中国收入分配研究院Seminar、上海财经大学第13届上海宏观经济学研讨会</small>
-  - <small>受邀演讲（江深哲）：中央财经大学理悦CEMA•知与行系列研讨会、北京理工大学经工讲堂</small>
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。
-  - <small>英文译文《Production Networks and Business Cycles in China》发表于社科院主管期刊《China Finance and Economic Review》2025年第1期
-  - <small>受邀演讲（黄益平）：中国社会科学院经济高质量发展大讲堂</small>
-  - <small>第10届香樟经济学优秀论文奖、《经济研究》第5届宏观经济学者论坛优秀论文</small>
+  - <small>第10届香樟经济学优秀论文奖</small>
 + 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期。
-  - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
-  - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
 + 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《结构性视角下的“稳增长”政策框架》，**《国际经济评论》待刊**。
++ Huang, Y., S. Xu, C. Yu, **H. Du**, and H. X. Wu, 2025, ["Production Networks and Business Cycles in China"](https://www.degruyterbrill.com/document/doi/10.1515/cfer-2025-0001/html), **_China Finance and Economic Review_**, 14(1), 3-22.
 
 **政策报告**
 + 2025年5月《关于提高生育率的有关建议》，获得党和国家主要领导人的重要批示。 
