@@ -31,6 +31,7 @@ redirect_from:
 + 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期。
   - <small>《数量经济技术经济研究》第1届中国宏观经济学论坛优秀论文</small>
   - <small>[新结构经济学研究院工作论文No.C2023002](https://www.nse.pku.edu.cn/xzyj/gzlw/gzlw2/533823.htm)</small>
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《结构性视角下的“稳增长”政策框架》，**《国际经济评论》待刊**。
 
 **政策报告**
 + 2025年5月《关于提高生育率的有关建议》，获得党和国家主要领导人的重要批示。 
@@ -43,7 +44,6 @@ redirect_from:
 + **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《消费习惯、生育选择与中国经济增长》，**《世界经济》三轮返修**。
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》复审**。
-+ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《经济下行的产业导因与“稳增长”政策的结构视角》，**《国际经济评论》终审修改**。
 + **杜浩锋**、王彦哲，2025：《创新结构转型与中国经济增长》。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《中国产业结构适老化转型：机制与趋势》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
