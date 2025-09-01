@@ -40,7 +40,7 @@ redirect_from:
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》复审**。
 + **杜浩锋**、王彦哲，2025：《创新结构转型：理解创新驱动型增长的新视角》。
-+ 汪玲、**杜浩锋（通讯作者）**，2025：《中国产业结构适老化转型：机制与趋势》。
++ 汪玲、**杜浩锋（通讯作者）**，2025：《供需老龄化与产业结构适老化转型》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
 + **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
