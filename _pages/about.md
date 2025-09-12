@@ -9,7 +9,7 @@ redirect_from:
 ---
 我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/), [国家发展研究院（NSD）](https://nsd.pku.edu.cn/)的一名五年级博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)，预计2026年毕业。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位，导师是[韩剑教授](https://nubs.nju.edu.cn/hj/list.htm)。我是湖北武汉人，小学、初中和高中分别就读于武汉小学、武珞路初级中学和华中师范大学第一附属中学。
 
-我的研究方向为宏观经济学，主要包括经济增长、结构转型、中国宏观经济。我的研究发表于《经济研究》《数量经济技术经济研究》等一流学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》等期刊匿名审稿人。
+我的研究方向为宏观经济学，主要包括经济增长、结构转型、中国宏观经济。我的研究发表于《经济研究》《数量经济技术经济研究》等学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》等期刊匿名审稿人。
 
 **简历**：[中文简历](../assets/中文简历.pdf).
 
@@ -41,6 +41,7 @@ redirect_from:
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税如何影响经济发展？》，**《管理科学学报》复审**。
 + **杜浩锋**、王彦哲，2025：《创新结构转型：理解创新驱动型增长的新视角》。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《供需老龄化与产业结构适老化转型》。
++ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《从稳波动到促增长：兼顾增长率目标的最优货币政策规则》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
 + **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
