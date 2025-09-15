@@ -41,7 +41,7 @@ redirect_from:
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》复审**。
 + **杜浩锋**、王彦哲，2025：《创新结构转型：理解创新驱动型增长的新视角》。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《供需老龄化与产业结构适老化转型》。
-+ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《从稳波动到促增长：兼顾增长率目标的最优货币政策规则》。
++ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
 + **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
