@@ -9,7 +9,7 @@ redirect_from:
 ---
 我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/)的经济学博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)，预计2026年毕业。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位。我的研究方向为发展经济学、宏观经济学、新结构经济学。我的研究发表于《经济研究》等学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》等期刊匿名审稿人。
 
-**简历**：[中文简历](../assets/中文简历.pdf).
+**简历**：[中文简历](../assets/杜浩锋-中文简历.pdf).
 
 **求职论文（Job Market Paper）**
 + Transforming Luxury to Necessity
