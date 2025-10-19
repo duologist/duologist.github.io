@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我目前是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/)的经济学博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)，预计2026年毕业。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位。我的研究方向为发展经济学、宏观经济学、新结构经济学。我的研究发表于《经济研究》等学术期刊，根据研究成果撰写的政策报告获得党和国家主要领导人的重要批示。同时，我担任《经济研究》等期刊匿名审稿人。
+我是[北京大学新结构经济学研究院（INSE）](https://www.nse.pku.edu.cn/)的经济学博士生，导师是[江深哲长聘副教授](https://www.nse.pku.edu.cn/szdw/js/500928.htm)和[林毅夫教授](https://www.nse.pku.edu.cn/szdw/js/465203.htm)。我于2021年在[南京大学商学院（NUBS）](https://nubs.nju.edu.cn/)获得经济学学士学位。研究方向包括发展经济学、宏观经济学。研究发表于《经济研究》等学术期刊，研究报告获国家领导人肯定性批示，曾获香樟经济学优秀论文奖等奖项，担任《经济研究》等期刊匿名审稿人。
 
 **简历**：[中文简历](../assets/杜浩锋-中文简历.pdf).
 
 **求职论文（Job Market Paper）**
 + Transforming Luxury to Necessity
   - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
-  - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually diffuse to become necessities for the poor. This paper is the first to document this process using comprehensive micro-level data and to examine how income inequality shapes firm innovation. We establish three facts: (i) poor consumers’ expenditure shares on products rise over time; (ii) firms serving richer consumers innovate more; and (iii) firm entry accompanies product diffusion. We develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics to account for these patterns. The model replicates the empirical findings and shows that rising inequality distorts innovation, disproportionately discouraging firms targeting lower-income consumers. Quantifying the model with U.S. retail scanner data and patent records, we find that rising inequality accounts for more than half of the observed slowdown in per-capita GDP growth.</small>
-   - <small>受邀演讲（江深哲）：北京航空航天大学、西南财经大学</small>
+  - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually diffuse to become necessities for the poor. This paper provides the first systematic evidence for this process using comprehensive U.S. retail scanner data and patent records, and examines how income inequality shapes firms’ innovation incentives. We establish three key facts: (i) poor consumers’ expenditure shares on products rise over time; (ii) firms serving richer consumers innovate more; and (iii) firm entry accompanies product diffusion. We then develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics that rationalizes these patterns. The model shows that rising inequality distorts innovation, disproportionately discouraging firms targeting lower-income consumers, a pattern consistent with the empirical evidence. Quantitatively, the model implies that the observed inequality gap between the 1970s and the 2010s alone accounts for 104% of the decline in U.S. per-capita GDP growth over the same period.</small>
+  - <small>受邀演讲（杜浩锋）：中央财经大学</small>
+  - <small>受邀演讲（江深哲）：北京航空航天大学、西南财经大学</small>
   
 **发表论文（含待刊）**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 待刊**。
@@ -39,10 +40,10 @@ redirect_from:
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》复审**。
 + **杜浩锋**、王彦哲，2025：《创新结构转型：理解创新驱动型增长的新视角》。
-+ 汪玲、**杜浩锋（通讯作者）**，2025：《供需老龄化与产业结构适老化转型》。
++ 汪玲、**杜浩锋（通讯作者）**，2025：《人口转变、供需结构变迁与适老化经济转型》。
 + 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
 + **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
 **期刊评审**
-+ 《经济研究》（×5）、《数量经济技术经济研究》（×1）
++ 《经济研究》（×8）、《数量经济技术经济研究》（×2）
