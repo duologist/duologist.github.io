@@ -12,11 +12,11 @@ redirect_from:
 **简历**：[中文简历](../assets/杜浩锋-中文简历.pdf).
 
 **求职论文（Job Market Paper）**
-+ Transforming Luxury to Necessity
++ Transforming Luxuries into Necessities: How Income Inequality Affects Economic Growth?
   - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
-  - <small>Abstract: Many economists believe that important products are initially invented as luxuries for the rich but eventually diffuse to become necessities for the poor. This paper provides the first systematic evidence for this process using comprehensive U.S. retail scanner data and patent records, and examines how income inequality shapes firms’ innovation incentives. We establish three key facts: (i) poor consumers’ expenditure shares on products rise over time; (ii) firms serving richer consumers innovate more; and (iii) firm entry accompanies product diffusion. We then develop a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics that rationalizes these patterns. The model shows that rising inequality distorts innovation, disproportionately discouraging firms targeting lower-income consumers, a pattern consistent with the empirical evidence. Quantitatively, the model implies that the observed inequality gap between the 1970s and the 2010s alone accounts for 104% of the decline in U.S. per-capita GDP growth over the same period.</small>
+  - <small>Abstract: Many economists have long observed that major innovations often begin as luxuries for the rich and eventually diffuse to become necessities for the poor. This paper provides the first systematic evidence of this process using comprehensive U.S. micro-level data and develops a unified framework linking income inequality, firm innovation, and economic growth. We document three key facts: (i) poor consumers’ expenditure shares on products rise over time; (ii) firms serving richer consumers innovate more; and (iii) firm entry accompanies the diffusion of products across the income distribution. We build a dynamic general equilibrium model with hierarchical consumption and firm dynamics to account for these patterns. The model shows that rising inequality distorts innovation and increases the concentration of innovative activity—a pattern consistent with the data. Quantifying the model using U.S. retail scanner data and patent records, we find that the observed rise in income inequality between the 1970s and the 2010s can almost fully account for the decline in per-capita GDP growth over the same period.</small>
   - <small>受邀演讲（杜浩锋）：中央财经大学</small>
-  - <small>受邀演讲（江深哲）：北京航空航天大学、西南财经大学</small>
+  - <small>受邀演讲（江深哲）：中山大学、北京航空航天大学、西南财经大学</small>
   
 **发表论文（含待刊）**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2025：《扩大消费能否促进长期增长？》，**《经济研究》 待刊**。
@@ -24,7 +24,7 @@ redirect_from:
   - <small>第10届香樟经济学优秀论文奖</small>
   - <small>社科院主管期刊的英文约稿版本：Huang, Y., S. Xu, C. Yu, **H. Du**, and H. X. Wu, 2025, ["Production Networks and Business Cycles in China"](https://www.degruyterbrill.com/document/doi/10.1515/cfer-2025-0001/html), **_China Finance and Economic Review_**, 14(1), 3-22.
 + 江深哲、**杜浩锋（通讯作者）**、徐铭梽，2024：[《“双碳”目标下能源与产业双重结构转型》](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaB1F1fM5H7dt2ATU92NbJrO87ZrmguJwbc0d79glLvbTbBjzkF0taieteanYOGBH53Z2_-4ErPwkMl5mTkHWcrzZwok8zQjDMusjBmhPzU2OilLLfpFDvawW2_Tgtdy0kU=&uniplatform=NZKPT&language=CHS)，**《数量经济技术经济研究》** 第2期。
-+ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：[《结构性视角下的“稳增长”政策框架》](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfx5rnr8liqrIkngP6sVLTwmfcInX5F6Euzym4P0Fu_194z1ymQNx2Y3afElTqL2JhRSgTpQGEpkJLkjqzxmWdluJHqXFVp_DTFRFsjQYewKdrwd9gxZi3XdWr7JubAZlRnqGMWPlAO247feqeAG0iUxUQYE3lj_E6BbjBSBAe0P3A==&uniplatform=NZKPT&language=CHS)，**《国际经济评论》** 第5期。
++ 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：[《结构性视角下的“稳增长”政策框架》](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfx5rnr8liqrIkngP6sVLTwmfcInX5F6Euzym4P0Fu_194z1ymQNx2Y3afElTqL2JhRSgTpQGEpkJLkjqzxmWdluJHqXFVp_DTFRFsjQYewKdrwd9gxZi3XdWr7JubAZlRnqGMWPlAO247feqeAG0iUxUQYE3lj_E6BbjBSBAe0P3A==&uniplatform=NZKPT&language=CHS)，**《国际经济评论》** 第5期。（《高等学校文科学术文摘》全文转载）
 
 **政策报告和内参**
 + 《关于提高生育率的有关建议》，2025，国务院总理批示。
