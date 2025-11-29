@@ -16,7 +16,7 @@ redirect_from:
   - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
   - <small>Abstract: Many economists have long observed that major innovations often begin as luxuries for the rich and eventually diffuse to become necessities for the poor. This paper provides the first systematic evidence of this process using comprehensive U.S. micro-level data and develops a unified framework linking income inequality, firm innovation, and economic growth. We document three key facts: (i) poor consumers’ expenditure shares on products rise over time; (ii) firms serving richer consumers innovate more; and (iii) firm entry accompanies the diffusion of products across the income distribution. We build a dynamic general equilibrium model with hierarchical consumption and firm dynamics to account for these patterns. The model shows that rising inequality distorts innovation and increases the concentration of innovative activity—a pattern consistent with the data. Quantifying the model using U.S. retail scanner data and patent records, we find that the observed rise in income inequality between the 1970s and the 2010s can almost fully account for the decline in per-capita GDP growth over the same period.</small>
   - <small>受邀演讲（杜浩锋）：中央财经大学</small>
-  - <small>受邀演讲（江深哲）：中山大学、北京航空航天大学、西南财经大学</small>
+  - <small>受邀演讲（江深哲）：北京大学、中山大学、北京航空航天大学、西南财经大学</small>
   
 **发表论文（含待刊）**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2026：《扩大消费能否促进长期增长？》，**《经济研究》 待刊**。
@@ -38,10 +38,10 @@ redirect_from:
   - <small>受邀演讲（陈斌开）：中国青年经济学家联谊会YES年会</small> 
 + **杜浩锋**、陈斌开、江深哲、夏俊杰，2025：《消费习惯如何影响生育决策？》，**《世界经济》终审**。
   - <small>受邀演讲（陈斌开）：《中国工业经济》第7届应用经济学前沿论坛、中国青年经济学家联谊会广州论坛、首都经贸大学国际经济管理学院Seminar、第6届北京大学经济科学博士生学术论坛</small>
++ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》，**入选《经济学（季刊）》纪念《中国的奇迹》出版30周年专题研讨会** 。
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》复审**。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《人口转变、供需结构变迁与适老化经济转型》，**《数量经济技术经济研究》外审**。
 + **杜浩锋**、王彦哲，2025：《需求驱动的创新结构转型：1985—2020年》。
-+ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》。
 + **Haofeng Du**, Shenzhe Jiang, and Justin Yifu Lin, 2024, Wave Phenomenon and Business Cycles in China.
 + **Haofeng Du**, Shenzhe Jiang, Mingzhi Xu, and Kai Yang, 2024, Dimensions of Local Government Competition.
 
