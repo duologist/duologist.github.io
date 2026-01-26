@@ -11,13 +11,6 @@ redirect_from:
 
 **简历**：[中文简历](../assets/杜浩锋-中文简历.pdf).
 
-**求职论文（Job Market Paper）**
-+ Transforming Luxuries into Necessities: How Inequality Affects Growth?
-  - <small>Authors: **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, Mingzhi Xu</small>
-  - <small>Abstract: Major innovations often arrive first as high-priced luxuries for the rich and only later become affordable necessities for the poor, so inequality can shape both diffusion and the direction of innovation. Using barcode-level NielsenIQ Homescan data linked to firm accounts and PatentsView, this paper documents three facts: within narrow product markets, prices fall over the product life cycle as low-income households’ spending shares rise; firms selling more to rich consumers patent more per dollar of revenue; and diffusion toward poorer buyers coincides with entry and declining concentration. We then build a dynamic general equilibrium model with hierarchical consumption and endogenous firm dynamics that rationalizes these patterns and delivers a misallocation channel: higher inequality shifts R\&D toward luxury goods and rich-oriented firms, leaving productivity gains in basic goods underexploited and slowing growth. Calibrated to U.S. scanner and patent data, the model implies that the rise in inequality from the 1970s to the 2010s can explain much of the slowdown in per-capita GDP growth.</small>
-  - <small>受邀演讲（杜浩锋）：中央财经大学</small>
-  - <small>受邀演讲（江深哲）：北京大学、中山大学、北京航空航天大学、西南财经大学</small>
-  
 **发表论文（含待刊）**
 + 陈斌开、**杜浩锋**、江深哲、夏俊杰，2026：《扩大消费能否促进长期增长？》，**《经济研究》** 第4期（待刊）。
 + 黄益平、徐诗语、余昌华、**杜浩锋（通讯作者）**、伍晓鹰，2024：[《生产网络视角下的中国经济周期》](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq6O55QBkqB8eUyDQHcuScM3p1K3vEzB2gKW8NE04trRcEN4wdrut_vWR4Gfw0ylJhaeQXwlaKAE1CgmWcOAHT6lCLDa5CwGl0-CFtre1ZFhzTQtsd69XfHd_extbsNXZk6zYLiD254y3Q51ICIFWj-Gn9b7-V1qLd0Zx8gL7lnTY5TeBKpB80Le&uniplatform=NZKPT&language=CHS)，**《经济研究》** 第9期。（**《人大复印报刊资料》** 全文转载）
@@ -32,14 +25,13 @@ redirect_from:
 + 《如何协调逆周期与跨周期调节？》，2025，中国人民银行货币政策司，《货币政策研究》第7期。
 
 **工作论文**
-+ **杜浩锋**、缪延亮、林婕彤、徐铭梽，2025：《政府投资的预期引导效应——基于中国政府引导基金的研究》，**《经济研究》三审**。
-+ 黄益平、徐诗语、**杜浩锋（通讯作者）**，2025：《数字普惠金融、小微企业动态与中国经济发展》，**《经济研究》复审**。
-  - <small>《经济研究》第5届发展经济学者论坛优秀论文</small>
++ **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, and Mingzhi Xu, 2026, “Transforming Luxuries into Necessities: How Inequality Affects Growth?”.
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2025：《人口老龄化如何影响创新驱动型增长？》，**《经济研究》返修**。
-  - <small>受邀演讲（陈斌开）：中国青年经济学家联谊会YES年会、中国产业经济论坛（2025）</small> 
-+ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》，**入选《经济学（季刊）》纪念《中国的奇迹》出版30周年专题研讨会** 。
++ 于倩文、**杜浩锋（通讯作者）**、江深哲，2025：《以进促稳：兼顾增长率目标的最优货币政策规则》，**《经济学（季刊）》外审** 。
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》修改后发表**。
 + 汪玲、**杜浩锋（通讯作者）**，2025：《人口转变、供需结构变迁与产业结构转型》，**《数量经济技术经济研究》终审**。
++ **杜浩锋**、缪延亮、林婕彤、徐铭梽，2025：《政府投资的预期引导效应——基于中国政府引导基金的研究》。
++ 黄益平、徐诗语、**杜浩锋（通讯作者）**，2025：《数字普惠信贷的宏观经济效应——基于多融资渠道异质性主体模型的研究》。
 + **杜浩锋**、王彦哲，2025：《需求结构升级如何重构创新动能？》。
 + **杜浩锋**、汪玲、江深哲，2025：《释放农村消费潜力如何影响长期增长？》。
 + 江深哲、赵昌文、**杜浩锋（通讯作者）**、汪玲：《有效需求约束下的创新驱动型增长》。
