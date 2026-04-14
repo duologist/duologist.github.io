@@ -19,9 +19,9 @@ redirect_from:
 + 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《结构性视角下的“稳增长”政策框架》，**《国际经济评论》** 第5期。（《新华文摘》《高等学校文科学术文摘》 全文转载）
 
 **工作论文**
-+ **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, and Mingzhi Xu, 2026, “Transforming Luxuries into Necessities: How Inequality Affects Growth?”.
++ **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, and Mingzhi Xu, 2026, [“Transforming Luxuries into Necessities: How Inequality Affects Growth?”](./assets/js/Transforming_Luxury_to_Necessity.pdf).
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2026：《人口老龄化如何影响创新驱动型增长？》，**《经济研究》** 返修。
-+ 于倩文、**杜浩锋（通讯作者）**、江深哲，2026：《以进促稳：兼顾增长率目标的最优货币政策规则》，**《经济学（季刊）》** 返修。
++ 于倩文、**杜浩锋（通讯作者）**、江深哲，2026：《创新驱动增长背景下的最优货币政策》，**《经济学（季刊）》** 返修。
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》** 返修。
 + **杜浩锋**、王彦哲，2026：《需求结构升级如何重构创新动能？》，**《数量经济技术经济研究》** 返修。
 + 徐诗语、黄益平、**杜浩锋（通讯作者）**，2026：《数字普惠信贷的宏观经济效应——基于多融资渠道的异质性主体模型》，外审中。
@@ -32,4 +32,4 @@ redirect_from:
 + 《如何协调逆周期与跨周期调节？》，2025，中国人民银行货币政策司内部刊物。
 
 **期刊评审**
-+ 《经济研究》（×13）、《数量经济技术经济研究》（×2）
++ 《经济研究》（×13）、《数量经济技术经济研究》（×3）
