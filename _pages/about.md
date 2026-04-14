@@ -19,7 +19,7 @@ redirect_from:
 + 黄益平、**杜浩锋**、徐诗语、伍晓鹰、余昌华，2025：《结构性视角下的“稳增长”政策框架》，**《国际经济评论》** 第5期。（《新华文摘》《高等学校文科学术文摘》 全文转载）
 
 **工作论文**
-+ **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, and Mingzhi Xu, 2026, [“Transforming Luxuries into Necessities: How Inequality Affects Growth?”](./assets/Transforming_Luxury_to_Necessity.pdf).
++ **Haofeng Du**, Shenzhe Jiang, Jianjun Miao, Yanzhe Wang, and Mingzhi Xu, 2026, [“Transforming Luxuries into Necessities: How Inequality Affects Growth?”](./Transforming_Luxury_to_Necessity.pdf).
 + 江深哲、陈斌开、**杜浩锋（通讯作者）**、夏俊杰，2026：《人口老龄化如何影响创新驱动型增长？》，**《经济研究》** 返修。
 + 于倩文、**杜浩锋（通讯作者）**、江深哲，2026：《创新驱动增长背景下的最优货币政策》，**《经济学（季刊）》** 返修。
 + 夏俊杰、江深哲、陈斌开、**杜浩锋**，2025：《房地产税、投资结构转型与经济发展》，**《管理科学学报》** 返修。
